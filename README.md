@@ -4,7 +4,7 @@ Project took 5 months: A walkable, multi-floor elevator game
 A cosy, walkable building of games, music and a disco. Plain HTML, CSS and JavaScript: no build step, no libraries, no React.
 
 - `index.html`: the page
-- `css/style.css`: the styles
+- `css/style.css`: the desgins
 - `js/core.js`: drawing helpers, characters, saving
 - `js/world.js`: floors, walking, the elevator
 - `js/rooms.js`: each floor's look
