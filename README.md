@@ -12,7 +12,7 @@ A cosy, walkable building of games, music and a disco. Plain HTML, CSS and JavaS
 - `js/boardgames.js`: Snakes & Ladders, Property Parade
 - `js/music.js`: beats, your own songs, YouTube
 - `js/main.js`: menus, input and the game loop
-<hr>
+
 ## Link to Game
 <a href="https://fatima-d09.github.io/Up_-_About/" target="_blank"> Click Here </a>
 <hr>
