@@ -18,7 +18,3 @@ A cosy, walkable building of games, music and a disco. Plain HTML, CSS and JavaS
 
 ## YouTube
 Paste any YouTube link into the Music panel to play it.
-
-To search by song name, make a free YouTube Data API key in Google Cloud Console
-(restrict it to your github.io address), then paste it into `YOUTUBE_API_KEY`
-near the top of `js/music.js`.
