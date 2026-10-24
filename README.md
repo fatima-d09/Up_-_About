@@ -1,5 +1,5 @@
 # Up_and_About
-Project took 5 months: walkable, multi-floor elevator game
+Project took 5 months: A walkable, multi-floor elevator game
 <hr>
 A cosy, walkable building of games, music and a disco. Plain HTML, CSS and JavaScript: no build step, no libraries, no React.
 
