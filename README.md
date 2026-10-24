@@ -2,7 +2,7 @@
 Project took 5 months: A walkable, multi-floor elevator game
 <hr>
 A cosy, walkable building of games, music and a disco. Plain HTML, CSS and JavaScript: no build step, no libraries, no React.
-<h
+<hr>
 - `index.html`: the page
 - `css/style.css`: the desgins
 - `js/core.js`: drawing helpers, characters, saving
@@ -12,9 +12,9 @@ A cosy, walkable building of games, music and a disco. Plain HTML, CSS and JavaS
 - `js/boardgames.js`: Snakes & Ladders, Property Parade
 - `js/music.js`: beats, your own songs, YouTube
 - `js/main.js`: menus, input and the game loop
-
+<hr>
 ## Link to Game
 <a href="https://fatima-d09.github.io/Up_-_About/" target="_blank"> Click Here </a>
-
+<hr>
 ## YouTube
 Paste any YouTube link into the Music panel to play it.
