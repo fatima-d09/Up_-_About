@@ -1,8 +1,8 @@
-# Up & About
+# Up & About🚪
 
 **A walkable, multi-floor elevator game** · built over 5 months
 
-A cosy, walkable building of games, music and a disco. Plain HTML, CSS and JavaScript: no build step, no libraries, no React.
+A cosy, walkable building of games, music and a disco. Plain HTML, CSS and (mostly) JavaScript: no build step, no libraries, no React.
 
 ### [▶ Play the game](https://fatima-d09.github.io/Up_-_About/)
 
