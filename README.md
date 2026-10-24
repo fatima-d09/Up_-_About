@@ -14,7 +14,7 @@ A cosy, walkable building of games, music and a disco. Plain HTML, CSS and JavaS
 - `js/main.js`: menus, input and the game loop
 
 ## Link to Game
-<a href="#"> Click Here </a>
+<a href="https://fatima-d09.github.io/Up_-_About/"> Click Here </a>
 
 ## YouTube
 Paste any YouTube link into the Music panel to play it.
