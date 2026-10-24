@@ -26,4 +26,4 @@ A cosy, walkable building of games, music and a disco. Plain HTML, CSS and (most
 
 ## YouTube
 
-Paste any YouTube link into the Music panel to play it.
+Paste any YouTube link into the Music panel to play it. Music component of the project needs a bit of editing.
